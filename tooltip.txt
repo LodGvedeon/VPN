@@ -1,0 +1,2 @@
+Short description of encryption algorithm 
+(lost this file when restored the project)
